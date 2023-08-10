@@ -2,7 +2,7 @@
 
 /**
  * main - to usee printf function
- * return : 555+5+5 in value hhhh
+ * Return: 555+5+5 in value hhhh
  */
 int main(void)
 {
