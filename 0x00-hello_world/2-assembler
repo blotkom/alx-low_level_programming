@@ -1,0 +1,4 @@
+#!/bin/bash
+newex=".s"
+filename=$(basename "$CFILE" ".c")$newex
+gcc -S -o "$filename" "$CFILE"
