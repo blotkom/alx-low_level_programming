@@ -1,2 +1,2 @@
 #!/bin/bash
-OUTPUT_FILE="$(basename -- $CFILE .c).s" ; gcc -S $CFILE -o $OUTPUT_FILE
+gcc $CFILE -o cisfun
