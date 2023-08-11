@@ -3,19 +3,19 @@
 #include <time.h>
 
 /**
- * main - Eferferfrferfntry point
+ * main - fwefwefwefwefweEntry point
  *
- * Return: Alwferferferfays 0 (Success)
+ * Return: Alwaysfwefwefwefwefwe 0 (Success)
  */
 
 int main(void)
 {
-	char low;
+char low;
 
-	for (low = 'a'; low <= 'z'; low++){
-		putchar(low);
-		putchar('\n');
-	}
-	
-	return (0);
+for (low = 'a'; low <= 'z'; low++)
+{
+putchar(low);
+putchar('\n');
+}
+return (0);
 }
