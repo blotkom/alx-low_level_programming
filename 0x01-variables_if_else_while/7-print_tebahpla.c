@@ -14,7 +14,7 @@ char lowa;
 for (lowa = 'z'; lowa >= 'a'; lowa--)
 {
 putchar(lowa);
-putchar('\n');
 }
+putchar('\n');
 return (0);
 }
