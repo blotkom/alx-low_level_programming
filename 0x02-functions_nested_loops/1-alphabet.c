@@ -2,7 +2,6 @@
 
 /**
  * print_alphabet - print all alpha
- * 
  * Return: no.
  */
 void print_alphabet(void)

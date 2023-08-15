@@ -2,7 +2,7 @@
 
 /**
  *_abs - return abs of value
- * @r: An integre input
+ * @r1: An integre input
  * Return: abs of value
  */
 int _abs(int r1)

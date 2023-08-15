@@ -4,6 +4,7 @@
  * _isalpha - check if is aplhaaaa
  * @c: An input character
  * Description: function returns 1 if char 
+ * Return: return value of hhhhh
  */
 int _isalpha(int c)
 {

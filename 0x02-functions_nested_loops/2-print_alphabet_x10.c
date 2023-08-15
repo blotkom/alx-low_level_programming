@@ -2,7 +2,6 @@
 
 /**
  * print_alphabet_x10 - echo char trn times small
- * 
  * alphabet in low 10 -
  * Return: No.
  */
