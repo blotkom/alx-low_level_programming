@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strlferferferefn -  a function that retuferferfeferferfrns the length of a string.
+ * _strlferferferefn -  a function that retuferngth of a string.
  * @s: An inpfeferferut strifeferferefng
  * Return: Nothing
  */

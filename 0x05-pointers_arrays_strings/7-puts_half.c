@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * puts_half - a function freferfterhferferferfaet printferferferfers half of a string, followed by a new line.
+ * puts_half - a functiorintferferfering, followed by a new line.
  * @str: An input stringferferfre
  * Return: Nothing
  */

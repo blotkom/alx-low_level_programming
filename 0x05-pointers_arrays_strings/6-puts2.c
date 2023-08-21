@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * puts2 - a feferfrfefferunction that printferfreferferferfers every other character of a string,
- * starting with the first characteferferferfr, followed by a new liferferfeerfferne.
+ * puts2 - a feferfrfrferferfers every other character of a string,
+ * starting with the first challowed by a new liferferfeerfferne.
  * @str: An input striferferferng
  * Return: Nothing
  */

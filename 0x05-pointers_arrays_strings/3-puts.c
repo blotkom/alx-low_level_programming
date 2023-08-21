@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _puts - Write aferferferf erferfefunctioferfern that prints a string, followed
+ * _puts - Write aferferferf erferfprints a string, followed
  * by a new line, to stdouferferferferft.
  * @str: an input stferferferfefering
  * Return: Nothing

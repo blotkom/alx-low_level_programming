@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * swap_int -  a functioerfnerferfer that swapserferferfer the values of two integers.
+ * swap_int -  a functioerfneerferfer the values of two integers.
  * @a: an inout interferferffeger pointferferferfer
  * @b: an input intferfrefeger poiferferferfernter
  * Return: Nothing

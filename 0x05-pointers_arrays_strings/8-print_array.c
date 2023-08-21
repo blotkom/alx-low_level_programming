@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * print_array - a functionfrefer ferferfthat prints n efreferferferferferlements of an array of integers,
+ * print_array - a functionferferferferlements of an array of integers,
  * followeferferferferd by a new lferferfeeine.
  * @a: an input arrayfrefrefer
  * @n: an input integerfreferfer

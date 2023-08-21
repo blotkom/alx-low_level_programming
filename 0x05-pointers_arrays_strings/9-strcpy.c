@@ -1,5 +1,5 @@
 /**
- * _strcpy - a function that copierferferfers the string poifrefeferferfented to by src,
+ * _strcpy - a function that copferfented to by src,
  * including the terfreferfferferfminating null byte (\0),
  * to the buffer pointed to by dest.
  *
