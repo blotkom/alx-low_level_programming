@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * reverse_arrverse an array.
+ * reverse_array - verse an array.
  * @a: at array
  * @n: number os of array
  * Return: Nothing
