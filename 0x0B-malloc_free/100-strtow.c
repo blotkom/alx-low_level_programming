@@ -1,10 +1,10 @@
-#include "holberton.h"
+#include "main.h"
 #include <stdlib.h>
 
 /**
- * strtow - A function that splits a string into words
- * @str: An input pointer of the string to split
- * Return: Apointer to concatened strings or NULL if it str is NULL
+ * strtow - A functioring into words
+ * @str: An input pointer tring to split
+ * Return: Apointer to concatULL if it str is NULL
  */
 char **strtow(char *str)
 {
