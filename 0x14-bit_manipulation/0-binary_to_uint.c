@@ -1,10 +1,10 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
- * binary_to_uint - A finction that converts binary number
- * to an unsigned integer
- * @b: A pointer to binary string
- * Return: unsigned integer converted number
+ * binary_to_uint - A finction binary number
+ * to an unsignger
+ * @b: A pointer to y string
+ * Return: unsigned ir converted number
  */
 unsigned int binary_to_uint(const char *b)
 {
