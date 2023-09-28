@@ -1,13 +1,13 @@
 #include "main.h"
 
 /**
- * print_binary - A functionthout % or /
- * @n: The numberted
+ * print_binary - A functionthout that return binary coe
+ * @n: The numberted which sues
  * Return: Nothing
  */
 void print_binary(unsigned long int n)
 {
-	unsigned int flag = 0, max = 32768; /* 1000 0000 0000 0000 */
+	unsigned int flag = 0, max = 32768;
 
 	if (n == 0)
 	{
