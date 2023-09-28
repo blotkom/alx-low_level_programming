@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * clear_bit - A function given index
- * @n: The numberbit in
- * @index: The index  bit at
+ * clear_bit - A function given indexddwefr
+ * @n: The numberbit infrfrf
+ * @index: The index  bit atfrfrxc
  * Return: 1 if it wo1 on error
  */
 int clear_bit(unsigned long int *n, unsigned int index)
